@@ -4,7 +4,7 @@ Rock Music webpage.
 
 ## 🔗 Railway link
 
-**Live:** https://wplv2-production.up.railway.app/
+**Live:** [https://wplv2-production.up.railway.app/](https://wplv2-production-2932.up.railway.app/)
 
 ---
 
